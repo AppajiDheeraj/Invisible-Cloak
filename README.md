@@ -85,11 +85,13 @@ cd invisibility-cloak
 ```
 <br>
 2. Install dependencies<br>
+
 ```bash
 pip install opencv-python numpy
 ```
 <br>
 3. Run the script<br>
+
 ```bash
 python invisibility_cloak.py
 ```
@@ -106,5 +108,7 @@ Press ESC to close the window and stop the program.<br>
 ## 📜 License<br>
 Free & Open Source.<br>
 Use it for learning, experiments, or your own creative twists.<br>
+
+---
 
 Made with 💻 and 🪄 by AppajiDheeraj
