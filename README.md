@@ -105,10 +105,4 @@ Press ESC to close the window and stop the program.<br>
 
 ---
 
-## 📜 License<br>
-Free & Open Source.<br>
-Use it for learning, experiments, or your own creative twists.<br>
-
----
-
 Made with 💻 and 🪄 by AppajiDheeraj
