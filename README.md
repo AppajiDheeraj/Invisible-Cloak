@@ -4,6 +4,7 @@
 
 A fun computer vision project that lets you disappear in real-time using an invisibility cloak effect! Built with Python and OpenCV, this script replaces the cloak area with a captured background, creating the illusion of invisibility.
 
+![Demo](invisiblecloak-ezgif.com-optimize.gif)
 ---
 
 ## 🎥 Demo
